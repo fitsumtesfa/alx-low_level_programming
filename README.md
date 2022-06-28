@@ -1,1 +1,1 @@
-C - argc_argv assignment
+Create a script that creates an alias
